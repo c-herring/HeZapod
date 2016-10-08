@@ -1,0 +1,4 @@
+In order to compile this code in Arduino, you will need to install this library:
+http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
+
+Please make sure you add the releval fiels in your /Arduino/libraries/ folder.
